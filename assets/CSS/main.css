@@ -190,7 +190,7 @@ header {
 /*Hero Section*/
 
 .hero {
-    background-image: url("/assets/img/background-image.png");
+    background-image: url("/assets/img/background-img.svg");
     min-height: 100vh;
     background-position: center;
     background-repeat: no-repeat;
